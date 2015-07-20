@@ -2,9 +2,9 @@
 title:       Robert Martinez
 email:       robert.david.martinez@gmail.com
 author:      Robert Martinez
-description: "Blackwaters Rising"
+description: "A meticulously neglected blog"
 baseurl:     ""
-url:         "robertmartinez.github.io"
+url:         "/"
 
 # Google analytics
 google_analytics:
