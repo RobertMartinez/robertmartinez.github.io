@@ -7,17 +7,18 @@ baseurl:     ""
 url:         "/"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-65365742-1
 
 # Optional features
 animated:           false
-show_related_posts: false
+show_related_posts: true
 show_post_footers:  false
 show_social_icons:  false
+# show_comments:      true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: robmxyz
 
 # Social icons
 github_username: RobertMartinez
@@ -36,14 +37,14 @@ show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
-share_hackernews: false
+share_hackernews: true
 
 # Build settings
 markdown:     kramdown
