@@ -17,7 +17,7 @@ So why now?
 
 Let's give it a go, shall we? 
 
-###7-20-2015 Update###
+####7-20-2015 Update####
  After I got everything up and running I discovered [Joshua Lande's post](http://joshualande.com/jekyll-github-pages-poole), which covers additional steps like adding comments, setting up a custom domain, and adding Google Analytics. The bit of advice I completely ignored was everything about Poole considering [Pixyll](http://Pixyll.com) covered that territory already. 
 
 {% include twitter_plug.html %}
