@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      And here we go!
+title:      Once more unto the breach
 date:       2015-07-19 19:32:18
 summary:    Let's see if we can get this blog to stick
 categories: jekyll pixyll blogging meta
@@ -17,7 +17,17 @@ So why now?
 
 Let's give it a go, shall we? 
 
+ P.S. For anyone keeping track, here are the remaining TODOs
+
+ *  <s>Setup custom domain</s>
+ *  <s>Setup comments</s>
+ *  Setup [shorter URLs](http://joshualande.com/short-urls-jekyll/)
+ *  Replace the favicon
+ *  Shut down my graveyard of abandoned blog accounts
+ *  Complete my existential crisis regarding my ever-growing digital footprint
+
 ####7-20-2015 Update####
  After I got everything up and running I discovered [Joshua Lande's post](http://joshualande.com/jekyll-github-pages-poole), which covers additional steps like adding comments, setting up a custom domain, and adding Google Analytics. The bit of advice I completely ignored was everything about Poole considering [Pixyll](http://Pixyll.com) covered that territory already. 
 
 {% include twitter_plug.html %}
+
