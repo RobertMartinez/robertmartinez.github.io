@@ -10,15 +10,15 @@ url:         "/"
 google_analytics: UA-65365742-1
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: true
-show_post_footers:  false
+show_post_footers:  true
 show_social_icons:  false
 # show_comments:      true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: robmxyz
+disqus_shortname: 
 
 # Social icons
 github_username: RobertMartinez
@@ -34,7 +34,7 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: false
-share_text: 'Share this post!'
+share_text: 
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: true

@@ -23,6 +23,7 @@ P.S. For anyone keeping track, here are the remaining TODOs
 *  <del>Setup comments</del>
 *  <del>Setup [shorter URLs](http://joshualande.com/short-urls-jekyll/)</del> 
 *  <del>[Replace the favicon](http://www.favicon-generator.org/)</del>
+*  <del>Setup [newsletter](http://tinyletter.com/robertdavidmartinez)</del>
 *  Shut down my graveyard of abandoned blog accounts
 *  Do something smart with tags/categories
 *  Complete my existential crisis regarding my ever-growing digital footprint
