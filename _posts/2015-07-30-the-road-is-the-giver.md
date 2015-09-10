@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      McCarthy's The Road is a sequel to The Giver
+title:      The Road - sequel to The Giver
 date:       2015-08-01 
-summary:    A fan fiction theory that I think makes both books better
+summary:    A fun theory that definitely makes both McCarthy's and Lowry's novels better
 categories: fiction sci-fi 
 ---
 
