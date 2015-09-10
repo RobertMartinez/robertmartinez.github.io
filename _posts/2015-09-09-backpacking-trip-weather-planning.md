@@ -6,7 +6,7 @@ summary:    Don't let the weather surprise you
 categories: backpacking weather emigrant_wilderness
 ---
 
-It is surprisingly easy to freeze your ass off in the High Sierras. Luckily, our group avoided being caught unprepared by a cold front camping this past weekend at Y Meadow Lake in the Emigrant Wilderness. I'm quite sure that if I hadn't done the following backpacking trip weather planning we would have had to cut the trip short. Here are the most useful insights:
+It is surprisingly easy to freeze your ass off in the High Sierras. Luckily, our group avoided being caught unprepared by a cold front camping this past weekend at Y Meadow Lake in the Emigrant Wilderness. I'm quite sure that if we hadn't done the following backpacking trip weather planning we would have had to cut the trip short. Here are the most useful insights:
 
 ##Finding the right weather station
 
