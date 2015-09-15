@@ -8,6 +8,18 @@ categories: backpacking weather emigrant_wilderness
 
 It is surprisingly easy to freeze your ass off in the High Sierras. Luckily, our group avoided being caught unprepared by a cold front while hammock camping this past weekend at Y Meadow Lake in the Emigrant Wilderness. I'm quite sure that if we hadn't done the following backpacking trip weather planning we would have had to cut the trip short. Here are the most useful insights:
 
+##Current top weather services
+
+[Lifehacker](http://lifehacker.com/5897973/five-best-weather-web-sites) polled their followers and put together the following list (in order or popularity):
+
+1. [Weather Underground](http://www.wunderground.com/) (aka, Wunderground)
+2. [National Weather Service](http://www.weather.gov/) - not to be confused with weather.com. 
+3. [Forecast.io](http://forecast.io/)
+4. [Weather Spark](https://weatherspark.com/)
+5. [The Fucking Weather](http://thefuckingweather.com/)
+
+While all of these services are perfectly fine for precipitation and large-scale weather patterns, for the Emigrant Wilderness I care most about temperature. For that I want to get get a lot more specific. 
+
 ##Finding the right weather station
 
 Not all weather stations are created equally. A forecast is offered for only the most popular/reliable weather stations. Example: while the Gianelli meadow weather station, [GNLC1](http://weather.gladstonefamily.net/site/GNLC1), is the closest weather station to Y Meadow Lake, no one uses it to create a weather forecast. 
@@ -48,7 +60,7 @@ We departed from Gianelli trailhead at 1:00pm 9/5 and returned at 11:30am 9/7. S
 
 * Apparently the [California Bureau of Reclamation](http://cdec.water.ca.gov/cgi-progs/queryF?s=GNL&d=07-Sep-2015+11:10&span=51hours) maintains the GNLC1 weather station. 
 * MesoWest does some kind of quality control analysis on weather station reporting. [You can see here that GNLC1 has been acting up recently](http://fam.nwcg.gov/roman/cgi-bin/meso_base_past.cgi?stn=GNLC1&unit=0&time=LOCAL&day1=5&month1=09&year1=2015&hour1=0). I may make a point to reference this data next time I'm doing some backpacking trip weather planning. 
-* The [NOAA Hydrometeorological Automated Data System (HADS)](http://www.nws.noaa.gov/oh/hads/) also maintains a large number of weather stations. GNLC1 is included and you can search for it via the NWSLI ID search box.   
+* The [NOAA Hydrometeorological Automated Data System (HADS)](http://www.nws.noaa.gov/oh/hads/) also maintains a large number of weather stations. GNLC1 is included and you can search for it via the NWSLI ID search box. Here's a [detailed explanation from NOAA about HADS](http://www.nws.noaa.gov/oh/hads/WhatIsHADS.html).
 
 ##09/14/15 Update 
 
@@ -58,9 +70,9 @@ Looks like the [Pinecrest lake](http://www.wunderground.com/weather-forecast/zmw
 
 ###Does this matter? 
 
-While Cold Springs, CA is very close to Pinecrest, it's not actually at Pinecrest Lake. In fact, on Wunderground there's another weather station called [MPNWC1](http://www.wunderground.com/personal-weather-station/dashboard?ID=MPNWC1), which is even closer being located in Strawberry, CA. However, when I click for the forecast for the area, it directs me back to the original "Sierras-Pinecrest Area" forecast. The takeaway: since Wunderground uses multiple weather stations for to generate its proprietary forecast, no one weather station on their network is going to be the sole source of information (which makes total sense, weather patterns are geographically rather large). FWIW, this morning at around 6:30am there was an 8 ˚F temperature difference between the two stations (Cold Springs: 58.9 ˚F and Strawberry: 51 ˚F). 
+While Cold Springs, CA is very close to Pinecrest, it's not actually at Pinecrest Lake. In fact, on Wunderground there's another weather station called [MPNWC1](http://www.wunderground.com/personal-weather-station/dashboard?ID=MPNWC1), which is even closer being located in Strawberry, CA. However, when I click for the forecast for the area, it directs me back to the original "Sierras-Pinecrest Area" forecast. The takeaway: since Wunderground uses multiple weather stations to generate its proprietary forecast, no single weather station on their network is going to be the sole source of information (which makes total sense, weather patterns are geographically rather large). FWIW, this morning at around 6:30am there was an 8 ˚F temperature difference between the two stations (Cold Springs: 58.9 ˚F and Strawberry: 51 ˚F). 
 
-However, it appears that Wundergound and HADS don't use each others weather stations. For instance, there is actually a [weather station on Pinecrest Lake (PNCC1)](http://weather.gladstonefamily.net/site/PNCC1), but I don't know which weather service includes its data (or Gianelli's for that matter). Granted, I wouldn't expect the CA Bureau of Reclamation to use a private/amateur weather service's data, but I could definitely see Wundergound using HADS. That's a shame considering how valuable it would be to people in the area to use these stations to better prepare for their trips into the Emigrant Wilderness.  
+However, it appears that Wundergound and HADS don't use each others weather stations. For instance, there is actually a [weather station on Pinecrest Lake (PNCC1)](http://weather.gladstonefamily.net/site/PNCC1), but I can't seem to find a weather service that includes its data (or Gianelli's for that matter). Granted, I wouldn't expect the CA Bureau of Reclamation or NOAA to use a private/amateur weather service's data, but I could definitely see Wundergound (or any of the other weather services) using HADS. That's a shame considering how valuable it would be to people in the area to use these stations to better prepare for their trips - especially for the Emigrant Wilderness.  
 
 <a id="10" href="#01">[0]</a> I'd show the original forecast, but I didn't take a screenshot so I have to use historical data.
 
