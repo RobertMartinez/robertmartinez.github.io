@@ -12,7 +12,7 @@ So why now?
 
 * I've been working on some exciting projects I'd like to share soon
 * My previous attempts at setting up a blog have been fraught with dissatification (e.g. Wordpress, Posterous, Posthaven, Medium, Blogger, Tumblr)
-* I finally have a good enough grasp of Github, Jekyll, and Markdown to be technically competent
+* I finally have a good enough grasp of Github, Jekyll, and Markdown to be technically competent <sup>[<em>[citation needed](https://xkcd.com/285/)</em>]</sup>
 * The barrier to writing/posting using this medium is refreshingly low
 
 Let's give it a go, shall we? 
