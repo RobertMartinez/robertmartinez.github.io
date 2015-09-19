@@ -1,39 +1,27 @@
 ---
-layout: page
-title: Recommendations
-permalink: /recommendations/
+layout:     post
+title:      Top Podcast Programs
+date:       2015-09-19 
+summary:    A compilation of recommended episodes from this year
+categories: podcasts recommendations
+allow_comments: TRUE
 ---
 
-I post recommendations here when I get asked more than once what I use for X. 
+Standing room only on the afternoon bus. Another round of putting away dishes. Long drives across the Central Valley. Podcasts transforms my most passive, tedious actions into opportunities to be entertained by some of the best radio narrative around. My favorites mostly fall under the category of long-form journalism, and Radiolab's most recent episode, [Rhino Hunter](http://www.radiolab.org/story/rhino-hunter/), is what compelled me to compile a list of favorite episodes from my top podcast programs. If you are new to any of these shows, I highly suggest picking an episode from the list and giving it a listen. 
 
-##Blogging
-_see [how I wired up my blog](/blog/once-more-unto-the-breach/) for more insight_
+##this american life
 
-* Wesbite hosting: [Github](http://github.com) + [Jekyll](http://jekyllrb.com/)
-* Blog theme: [Pixyll](http://Pixyll.com) (requires jekyll)
-* Writing framework: [Markdown](http://daringfireball.net/projects/markdown/syntax) (more of a reference than anything)
-* Newsletter service: [TinyLetter](http://tinyletter.com/)
-
-
-##Software Tools
-_note: all recommendations are based on Apple's OS X Yosemite_
-
-* Text editor: [Sublime Text](http://www.sublimetext.com/3)
-* Password manager: [KeePassX](https://www.keepassx.org/)
-* Screenshot markup: [Skitch](https://evernote.com/skitch/) (may require Evernote)
-* Github management: [Github for Mac](https://mac.github.com/)
-
-##Podcasts
-
-###this american life
+No surprise here, this is a podcast staple. Here are a handful of my favorites.
 
 * [The House on Loon Lake](http://www.thisamericanlife.org/radio-archives/episode/199/house-on-loon-lake)
 * [Switched at Birth](http://www.thisamericanlife.org/radio-archives/episode/360/switched-at-birth) 
 * [Petty Tyrant](http://www.thisamericanlife.org/radio-archives/episode/419/petty-tyrant) 
 * [Cars](http://www.thisamericanlife.org/radio-archives/episode/513/129-cars) 
-* [Cops See it Differently, Part One](http://www.thisamericanlife.org/radio-archives/episode/547/cops-see-it-differently-part-one) - first of a 2 part series. 
+* [Cops See it Differently, Part One](http://www.thisamericanlife.org/radio-archives/episode/547/cops-see-it-differently-part-one) - this is the first of a 2 part series. 
 
-###planet money
+##planet money
+
+These are all from just 2015. This podcast is simply wonderful. 
 
 * [The Taxi King](http://www.npr.org/sections/money/2015/07/31/428157211/episode-643-the-taxi-king)
 * [The Bottom Of The Well](http://www.npr.org/sections/money/2015/07/22/425392169/episode-640-the-bottom-of-the-well)
@@ -43,9 +31,11 @@ _note: all recommendations are based on Apple's OS X Yosemite_
 * [The Miracle Apple](http://www.npr.org/sections/money/2015/05/27/410085320/episode-627-the-miracle-apple)
 * [How Do You Decide Who Gets Lungs](http://www.npr.org/sections/money/2015/04/29/403114496/episode-372-how-do-you-decide-who-gets-lungs)
 * [The Prisoners Solution](http://www.npr.org/sections/money/2015/03/13/392862778/episode-610-the-prisoners-solution)
-*  [Where The Planet Money T-shirt Began](http://www.npr.org/sections/money/2015/08/05/429780701/episode-496-where-the-planet-money-t-shirt-began) - first of a 4 part series. 
+*  [Where The Planet Money T-shirt Began](http://www.npr.org/sections/money/2015/08/05/429780701/episode-496-where-the-planet-money-t-shirt-began) - this is the first of a 4 part series. 
 
-###99% invisible
+##99% invisible
+
+Roman Mars is the man. I love his storytelling style and presentation of design thinking. 
 
 * [Reefer Madness](http://99percentinvisible.org/episode/reefer-madness/)
 * [The Sunshine Hotel](http://99percentinvisible.org/episode/the-sunshine-hotel/)
@@ -60,7 +50,9 @@ _note: all recommendations are based on Apple's OS X Yosemite_
 * [Guerrilla Public Service](http://99percentinvisible.org/episode/guerrilla-public-service/)
 * [Penn Station Sucks](http://99percentinvisible.org/episode/penn-station-sucks/)
 
-###the memory palace
+##the memory palace
+
+Its first season just concluded this summer. Nate DiMeo is a fantastic storyteller. 
 
 * [The Ballad Of Captain Dwight](http://thememorypalace.us/2015/08/the-ballad-of-captain-dwight/)
 * [Craning](http://thememorypalace.us/2015/08/craning/)
@@ -71,11 +63,17 @@ _note: all recommendations are based on Apple's OS X Yosemite_
 * [The 7th Story](http://thememorypalace.us/2015/01/the-7th-story/)
 * [Other Bodies](http://thememorypalace.us/2014/10/other-bodies/)
 
-###radiolab
+##radiolab
+
+Only recently gotten into this (thanks, Rosie!). This is the first episode I've been telling people about non-stop. 
 
 * [Rhino hunter](http://www.radiolab.org/story/rhino-hunter/)
 
-###freakenomics
+##freakenomics
 
-* [How Do We Know What Really Works In Healthcare](http://freakonomics.com/2015/04/02/how-do-we-know-what-really-works-in-healthcare-a-new-freakonomics-radio-podcast/) - first of a 2 part series. 
+When it's good it's great. Here are two from this year that are very well researched and presented. 
+
+* [How Do We Know What Really Works In Healthcare](http://freakonomics.com/2015/04/02/how-do-we-know-what-really-works-in-healthcare-a-new-freakonomics-radio-podcast/) - this is the first of a 2 part series. 
 * [Is Americas Education Problem Really Just A Teacher Problem](http://freakonomics.com/2014/11/27/is-americas-education-problem-really-just-a-teacher-problem-a-new-freakonomics-radio-podcast/)
+
+I'll keep adding to this list of top podcast programs in my [Recommendations](http://robm.xyz/recommendations) section. Stay tuned. 
