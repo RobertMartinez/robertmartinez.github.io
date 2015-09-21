@@ -5,6 +5,7 @@ date:       2015-09-23
 summary:    Playing in SF Bay with scrap metal
 tags: 
   - materials science 
+  - cabin 5
 allow_comments: TRUE
 ---
 {% include image.html url="/images/saltwater-alloy-corrosion-7.jpg" description="MiniMo dissassembled" %}

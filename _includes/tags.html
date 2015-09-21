@@ -1,13 +1,13 @@
 {% assign tags_list = page.tags %}
 
-<p>Topics in this post: 
+Topics in this post: 
+
 {% if tags_list.first[0] == null %}
   {% for tag in tags_list %}
-    (<a href="/tags#{{ tag | slugify }}-ref" ><em>{{ tag | capitalize }}</em></a>) 
-  {% endfor %}
-{% else %}
-  {% for tag in tags_list %}
-    <a href="/tags#{{ tag[0] | slugify }}-ref" ><em>{{ tag[0] | capitalize }}</em></a>
+    {% if tag == tags_list.last %}
+      <a href="/tags#{{ tag | slugify }}-ref" >{{ tag | capitalize }}</a> 
+    {% else %}
+      <a href="/tags#{{ tag | slugify }}-ref" >{{ tag | capitalize }}</a>,  
+    {% endif %}
   {% endfor %}
 {% endif %}
-</p>

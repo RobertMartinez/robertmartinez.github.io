@@ -5,7 +5,6 @@ update_date:       2015-07-20 19:32:18
 summary:    Let's see if we can get this blog to stick
 tags: 
   - jekyll 
-  - pixyll 
   - blogging 
   - meta
 ---
