@@ -29,7 +29,7 @@ P.S. For anyone keeping track, here are the remaining TODOs
 *  <del>[Replace the favicon](http://www.favicon-generator.org/)</del>
 *  <del>Setup [newsletter](http://tinyletter.com/robertdavidmartinez)</del>
 *  Shut down my graveyard of abandoned blog accounts
-*  Do something smart with tags/categories
+*  <del>Do [something smart with tags/categories](https://blog.brandonparsons.me/2015-using-tags-in-a-jekyll-blog-on-github-pages/)</del>
 *  Complete my existential crisis regarding my ever-growing digital footprint
 
 ####7-20-2015 Update
