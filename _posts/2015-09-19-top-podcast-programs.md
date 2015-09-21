@@ -1,9 +1,11 @@
 ---
 layout:     post
-title:      Top Podcast Programs
+title:      Top podcast programs
 date:       2015-09-19 
 summary:    A compilation of recommended episodes from this year
-categories: podcasts recommendations
+tags:  
+  - podcasts 
+  - recommendations
 allow_comments: TRUE
 ---
 

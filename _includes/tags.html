@@ -1,0 +1,17 @@
+{% assign tags_list = page.tags %}
+
+<p class="post-meta" >Topics in this post: 
+{% if tags_list.first[0] == null %}
+  {% for tag in tags_list %}
+    <span class="post-meta">
+      <a href="/tags#{{ tag | slugify }}-ref" ><em>{{ tag | capitalize }}</em></a> 
+    </span>
+  {% endfor %}
+{% else %}
+  {% for tag in tags_list %}
+    <span class="post-meta">
+      <a href="/tags#{{ tag[0] | slugify }}-ref" ><em>{{ tag[0] | capitalize }}</em></a>
+    </span>
+  {% endfor %}
+{% endif %}
+</p>

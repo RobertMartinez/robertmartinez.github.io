@@ -3,7 +3,10 @@ layout:     post
 title:      Jetboil backpacking alcohol stove
 date:       2015-09-15 
 summary:    Modifying a stove for a different fuel
-categories: backpacking ultralight gear stove
+tags: 
+  - backpacking 
+  - ultralight gear 
+  - stove
 allow_comments: TRUE
 ---
 

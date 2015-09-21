@@ -3,7 +3,10 @@ layout:     post
 title:      Backpacking trip weather planning
 update_date:       2015-09-14 
 summary:    Don't let the weather surprise you
-categories: backpacking weather emigrant_wilderness
+tags: 
+  - backpacking 
+  - weather 
+  - emigrant wilderness
 allow_comments: TRUE
 ---
 

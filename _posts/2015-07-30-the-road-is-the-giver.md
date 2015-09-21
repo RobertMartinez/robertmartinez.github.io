@@ -3,7 +3,9 @@ layout:     post
 title:      The Road - sequel to The Giver
 date:       2015-08-01 
 summary:    A fun theory that definitely makes both McCarthy's and Lowry's novels better
-categories: fiction sci-fi 
+tags: 
+  -   fiction 
+  -   sci-fi 
 ---
 
 What if Cormac McCarthy's _The Road_ is a spiritual sequel to Lois Lowry's dystopian book _The Giver_?

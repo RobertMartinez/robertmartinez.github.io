@@ -3,7 +3,11 @@ layout:     post
 title:      Once more unto the breach
 update_date:       2015-07-20 19:32:18
 summary:    Let's see if we can get this blog to stick
-categories: jekyll pixyll blogging meta
+tags: 
+  - jekyll 
+  - pixyll 
+  - blogging 
+  - meta
 ---
 
 I've known about using Github Pages to host a personal blog for quite some time, but it wasn't until I came upon [James Huang's post](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/) that I decided to set one up for myself (obligatory [Hacker News discussion](https://news.ycombinator.com/item?id=9913136) here). 
