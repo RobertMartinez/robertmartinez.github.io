@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Tags
-description: Tag list from the blog
+title: Topics
+description: Topics list from the blog
 permalink: /tags/
 ---
 
 <!-- https://blog.brandonparsons.me/2015-using-tags-in-a-jekyll-blog-on-github-pages/ -->
-<!-- This is pasted verbatim, with the one exception that I removed all the styling classes -->
+<!-- This is pasted verbatim, with two exceptions:
+1) I removed all the styling classes 
+2) Slight copy editing -->
 
 {% assign tags_list = site.tags %}
 
-<h2>Tag List</h2>
 <ul>
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %}
@@ -31,6 +32,8 @@ permalink: /tags/
 {% assign tags_list = nil %}
 
 <hr />
+
+<h2>Relevant posts by topic</h2>
 
 {% for tag in site.tags %}
   <h2 id="{{ tag[0] | slugify }}-ref">{{ tag[0] | capitalize }}</h2>
