@@ -1,0 +1,1 @@
+http://www.craigkerstiens.com/2013/03/31/why-i-blog/
