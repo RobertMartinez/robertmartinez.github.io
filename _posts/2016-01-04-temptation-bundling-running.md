@@ -7,6 +7,7 @@ tags:
   -   running 
   -   temptation bundling
   -   self-improvement 
+allow_comments: TRUE
 ---
 
 ##Introduction
