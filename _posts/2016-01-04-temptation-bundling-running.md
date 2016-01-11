@@ -33,7 +33,7 @@ But I wanted more.
 
 ##Bundle-ception
 
-Since all of my runs are out and back (and I have my phone on my anyways), I realized I could incorporate a completely different game into my runs while I play Zombies, Run!. This game is affectioanly known as [Geocaching](https://www.geocaching.com/guide/). 
+Since all of my runs are out and back (and I have my phone on my anyways), I realized I could incorporate a completely different game into my runs while I play Zombies, Run!. This game is affectionately known as [Geocaching](https://www.geocaching.com/guide/). 
 
 {% include image.html url="/images/geocaching-2.png" description="A game of nerdy espionage." %}
 
@@ -54,11 +54,11 @@ This is a great excuse for me to introduce endless variety in my runs while main
 
 ##Conclusion
 
-I definitely have not fallen in love running like Caballo Blanco or the other notable characters of Born to Run. However, I don't hate it anymore and I'm throughly addicted to a process that improves my life. That's a considerable victory. Tempation bundling worked for me in this case, and I can't wait to apply it to other aspects of my life.  
+I definitely have not fallen in love with running like Caballo Blanco or the other notable characters of Born to Run. However, I don't hate it anymore and I'm throughly addicted to a process that improves my life. That's a considerable victory. Tempation bundling worked for me in this case, and I can't wait to apply it to other aspects of my life.  
 
 {% include image.html url="http://i.imgur.com/IGWMrP8.jpg"%}
 
-<a id="01" href="#00">[0]</a> I'm going to skip the part where I bought some Vibrams and prompty injured my calves. I've encountered people who have become so smitten with the shoes that they now exclusively wear only that shoe, but for me they've caused nothing but grief. 
+<a id="01" href="#00">[0]</a> I'm going to skip the part where I bought some Vibrams and prompty injured my calves. I've encountered people who have become so smitten with the shoes that they now exclusively wear only that brand, but for me they've caused nothing but grief. 
 
 <a id="11" href="#10">[1]</a> I confess that I don't include geocaching in 100% of my runs. It's definitely my ideal, but I sometimes don't have the extra 15-30 mins necessary to discover the hidden cache. Right now I'm considering it as a treat for when I do indeed have the time. 
 

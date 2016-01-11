@@ -6,7 +6,11 @@ permalink: /recommendations/
 
 I post recommendations here when I get asked more than once what I use for X. 
 
-##Blogging
+####Changelog:
+
+* 1/11/2016: Added Radiolab and Freakenomics podcat episodes. Added Mobile Apps section. 
+
+###Blogging
 _see [how I wired up my blog](/blog/once-more-unto-the-breach/) for more insight_
 
 * Wesbite hosting: [Github](http://github.com) + [Jekyll](http://jekyllrb.com/)
@@ -15,7 +19,7 @@ _see [how I wired up my blog](/blog/once-more-unto-the-breach/) for more insight
 * Newsletter service: [TinyLetter](http://tinyletter.com/)
 
 
-##Software Tools
+###Desktop Software Tools
 _note: all recommendations are based on Apple's OS X Yosemite_
 
 * Text editor: [Sublime Text](http://www.sublimetext.com/3)
@@ -23,9 +27,15 @@ _note: all recommendations are based on Apple's OS X Yosemite_
 * Screenshot markup: [Skitch](https://evernote.com/skitch/) (may require Evernote)
 * Github management: [Github for Mac](https://mac.github.com/)
 
-##Podcasts
+###Mobile Apps
+_note: all recommendations are based on Apple's iOS_
 
-###this american life
+* [Zombies, Run!](https://zombiesrungame.com/) (I've written about my experience [here](http://robm.xyz/blog/temptation-bundling-running)).
+* [Geocaching](https://www.geocaching.com/guide/) (I've written about my experience [here](http://robm.xyz/blog/temptation-bundling-running)).
+
+###Podcasts
+
+####this american life
 
 * [The House on Loon Lake](http://www.thisamericanlife.org/radio-archives/episode/199/house-on-loon-lake)
 * [Switched at Birth](http://www.thisamericanlife.org/radio-archives/episode/360/switched-at-birth) 
@@ -33,7 +43,7 @@ _note: all recommendations are based on Apple's OS X Yosemite_
 * [Cars](http://www.thisamericanlife.org/radio-archives/episode/513/129-cars) 
 * [Cops See it Differently, Part One](http://www.thisamericanlife.org/radio-archives/episode/547/cops-see-it-differently-part-one) - first of a 2 part series. 
 
-###planet money
+####planet money
 
 * [The Taxi King](http://www.npr.org/sections/money/2015/07/31/428157211/episode-643-the-taxi-king)
 * [The Bottom Of The Well](http://www.npr.org/sections/money/2015/07/22/425392169/episode-640-the-bottom-of-the-well)
@@ -45,7 +55,7 @@ _note: all recommendations are based on Apple's OS X Yosemite_
 * [The Prisoners Solution](http://www.npr.org/sections/money/2015/03/13/392862778/episode-610-the-prisoners-solution)
 *  [Where The Planet Money T-shirt Began](http://www.npr.org/sections/money/2015/08/05/429780701/episode-496-where-the-planet-money-t-shirt-began) - first of a 4 part series. 
 
-###99% invisible
+####99% invisible
 
 * [Reefer Madness](http://99percentinvisible.org/episode/reefer-madness/)
 * [The Sunshine Hotel](http://99percentinvisible.org/episode/the-sunshine-hotel/)
@@ -60,7 +70,7 @@ _note: all recommendations are based on Apple's OS X Yosemite_
 * [Guerrilla Public Service](http://99percentinvisible.org/episode/guerrilla-public-service/)
 * [Penn Station Sucks](http://99percentinvisible.org/episode/penn-station-sucks/)
 
-###the memory palace
+####the memory palace
 
 * [The Ballad Of Captain Dwight](http://thememorypalace.us/2015/08/the-ballad-of-captain-dwight/)
 * [Craning](http://thememorypalace.us/2015/08/craning/)
@@ -71,11 +81,13 @@ _note: all recommendations are based on Apple's OS X Yosemite_
 * [The 7th Story](http://thememorypalace.us/2015/01/the-7th-story/)
 * [Other Bodies](http://thememorypalace.us/2014/10/other-bodies/)
 
-###radiolab
+####radiolab
 
 * [Rhino hunter](http://www.radiolab.org/story/rhino-hunter/)
+* [Birth Story](http://www.radiolab.org/story/birthstory/)
 
-###freakenomics
+####freakenomics
 
 * [How Do We Know What Really Works In Healthcare](http://freakonomics.com/2015/04/02/how-do-we-know-what-really-works-in-healthcare-a-new-freakonomics-radio-podcast/) - first of a 2 part series. 
 * [Is Americas Education Problem Really Just A Teacher Problem](http://freakonomics.com/2014/11/27/is-americas-education-problem-really-just-a-teacher-problem-a-new-freakonomics-radio-podcast/)
+* [When Willpower Isn't Enough](http://freakonomics.com/2015/03/13/when-willpower-isnt-enough-a-new-freakonomics-radio-podcast) (I wrote about my experience with temptation bundling [here](http://robm.xyz/blog/temptation-bundling-running)).
