@@ -58,34 +58,35 @@ Now that everything was exposed, I found out two crucial bits of information:
 1. I did indeed find a bunch more space behind that wall. Super cool!
 2. This wall is more complex than I was imagining. 
 
-{% include image.html url="/images/cabin5-25.jpg" description="CHANGE ME" %}
+{% include image.html url="/images/cabin5-25.jpg" description="The wall, torn down to bare metal hull." %}
 
 ## The plan
 
 ### First milestone: build the bed
 
-{% include image.html url="/images/cabin5-08.jpg" description="CHANGE ME" %}
-{% include image.html url="/images/cabin5-06.jpg" description="CHANGE ME" %}
-{% include image.html url="/images/cabin5-02.jpg" description="CHANGE ME" %}
-{% include image.html url="/images/cabin5-07.jpg" description="CHANGE ME" %}
+{% include image.html url="/images/cabin5-08.jpg" description="I decided to use the waterjet at the San Francisco Techshop to cut out my bed frame. Awesome decision and quite pleased with the results." %}
+{% include image.html url="/images/cabin5-06.jpg" description="The negative of the part I cut out. " %}
+{% include image.html url="/images/cabin5-07.jpg" description="The bed fits! It's brilliant!" %}
+{% include image.html url="/images/cabin5-02.jpg" description="I designed this bed to be a semi-murphy bed. I'm able to fold up half of the bed frame so I can easily access the drawers underneath and total floorspace when I need to." %}
+
 
 ### Second milstone: build the shelving
 
-{% include image.html url="/images/cabin5-03.jpg" description="CHANGE ME" %}
-{% include image.html url="/images/cabin5-01.png" description="CHANGE ME" %}
-{% include image.html url="/images/cabin5-17.png" description="CHANGE ME" %}
-{% include image.html url="/images/cabin5-18.png" description="CHANGE ME" %}
+{% include image.html url="/images/cabin5-03.jpg" description="Nothing in this cabin is square. I needed a reference surface to base the best of my design, so i used my freshly-installed bed frame. " %}
+{% include image.html url="/images/cabin5-01.png" description="First task was to build the cabin in CAD." %}
+{% include image.html url="/images/cabin5-17.png" description="My shelving design, isometric view." %}
+{% include image.html url="/images/cabin5-18.png" description="This top-down view of the shelving shows just how much of a jigsaw puzzle this is. That was the intent all along - build it all in CAD and then cut it all out in one go on the waterjet. Everything fits together like a jigsaw, requires minimal fastening, and is completely removable." %}
 
 ## Matterport Scan
 
-{% include image.html url="/images/cabin5-22.jpg" description="CHANGE ME" %}
-{% include image.html url="/images/cabin5-19.jpg" description="CHANGE ME" %}
-{% include image.html url="/images/cabin5-20.jpg" description="CHANGE ME" %}
-{% include image.html url="/images/cabin5-21.jpg" description="CHANGE ME" %}
+{% include image.html url="/images/cabin5-22.jpg" description="The folks at Matterport were kind enough to scan my cabin. Here is the raw scan." %}
+{% include image.html url="/images/cabin5-19.jpg" description="I exported my CAD model as an STL and used Blender to superimpose the two 3D models on top of one another. Blue is the CAD model and Gray is the Matterport Scan." %}
+{% include image.html url="/images/cabin5-20.jpg" description="Here you can see that while I was close, I wasn't close enough. There are some subtle-enough-to-easily-get-wrong mistakes in my CAD model." %}
+{% include image.html url="/images/cabin5-21.jpg" description="Here it becomes more evident where the thorniest issues are. This is going to be a huge pain to correct." %}
 
 So what's the plan now?
 
-{% include image.html url="/images/cabin5-23.jpg" description="CHANGE ME" %}
+{% include image.html url="/images/cabin5-23.jpg" description="This is a scaffolding I tore down while dismantling the wall. As much as it pains me to write this, I think I'm just going to put this back up, though I need to rebuild it from scratch. " %}
 
 
 [0] 3.5 years later and I still kick myself when I look at this picture. My own idiocy astounds me. 
