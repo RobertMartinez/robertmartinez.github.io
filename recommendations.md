@@ -6,7 +6,7 @@ permalink: /recommendations/
 
 I post recommendations here when I get asked more than once what I use for X. 
 
-####Changelog:
+Changelog:
 
 * 1/11/2016: Added Radiolab and Freakenomics podcat episodes. Added Mobile Apps section. 
 
