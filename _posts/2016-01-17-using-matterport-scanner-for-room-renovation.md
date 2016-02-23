@@ -84,7 +84,7 @@ Now that everything was exposed, I found out two crucial bits of information:
 {% include image.html url="/images/cabin5-20.jpg" description="Here you can see that while I was close, I wasn't close enough. There are some subtle-enough-to-easily-get-wrong mistakes in my CAD model." %}
 {% include image.html url="/images/cabin5-21.jpg" description="Here it becomes more evident where the thorniest issues are. This is going to be a huge pain to correct." %}
 
-So what's the plan now?
+## So what's the plan now?
 
 {% include image.html url="/images/cabin5-23.jpg" description="This is a scaffolding I tore down while dismantling the wall. As much as it pains me to write this, I think I'm just going to put this back up, though I need to rebuild it from scratch. " %}
 
