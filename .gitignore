@@ -1,2 +1,8 @@
 _site
 .sass-cache
+
+_posts/.DS_Store
+
+_drafts/.DS_Store
+
+.DS_Store
