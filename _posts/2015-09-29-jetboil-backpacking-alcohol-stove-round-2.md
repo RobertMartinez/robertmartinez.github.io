@@ -12,7 +12,7 @@ allow_comments: TRUE
 
 In [a previous post](http://robm.xtz/blog/jetboil-backpacking-alcohol-stove/) I showed how a Fancy Feast/Super Cat stove is compatible with a Jetboil Minimo stove pot. I mentioned I would put up some numbers when I got around to doing a test boil, and here we are.
 
-##Testing
+## Testing
 
 The setup itself is straightforward: measure how long it takes to bring two cups of tap water to a rolling boil using 1 oz of fuel. I used denatured alcohol as it was most available <a id="00" href="#01">[0]</a>. 
 
@@ -20,7 +20,7 @@ The setup itself is straightforward: measure how long it takes to bring two cups
 
 Overall, I was pleased with how the flux ring seemed to keep the flames from reaching up around the sides of the pot. It's not good enough to be able to leave the stock Jetboil lid on there (I tried), but I wasn't expecting that anyways. 
 
-###Results
+### Results
 * Two cups tap water (room temperature)
 * 1 oz denatured alcohol
 * Time to rolling boil: 10:00

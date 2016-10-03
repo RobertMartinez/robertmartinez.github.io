@@ -12,7 +12,7 @@ allow_comments: TRUE
 
 On our most recent trip it [got rather cold](robm.xyz/blog/backpacking-trip-weather-planning), so we were using my Jetboil Flash canister stove quite a bit to make hot tea (quite the welcome luxury). However, while we had boiling water available with minimal fuss, we burned through quite a bit of fuel. We actually got a little concerned we'd use up our two 100g canisters before the end of the trip, and that's when I realized I should have a backup stove source on hand. Thus, I set out to create a Jetboil backpacking alcohol stove. 
 
-##Why an alcohol stove?
+## Why an alcohol stove?
 
 Everyone seems to have their favorite kind, but here's a quick rundown of all the different backpacking stove types to get a quick sense of what's out there:
 
@@ -25,7 +25,7 @@ Everyone seems to have their favorite kind, but here's a quick rundown of all th
 
 All I care about is boiling water, and to that end backpackers (especially [ultralight ones](http://www.backpackinglight.com/cgi-bin/backpackinglight/forums/thread_display.html?forum_thread_id=85277)) love to [mess around with alcohol stoves](https://www.youtube.com/watch?v=p2fPIvyme9I) to achieve this. In particular, the [Fancy Feast/Super Cat](http://andrewskurka.com/2011/how-to-make-a-fancy-feast-alcohol-stove/) seems to be the most common/cheapest kind, and it is ridiculously simple/lightweight. Seemed easy enough so I figured I'd give it a shot. 
 
-##First attempt
+## First attempt
 
 After building the Fancy Feast, I tried it out with a Toaks 750ml mug. It was, to put it mildly, a failure. 
 
@@ -33,11 +33,11 @@ After building the Fancy Feast, I tried it out with a Toaks 750ml mug. It was, t
 
 Further research yielded another post by Andrew Skurka discussing the [limitations of the Super Cat/Fancy Feast setup](http://andrewskurka.com/2015/super-cat-fancy-feast-backpacking-alcohol-stove-flaws/). Takeaway: I need either a center-burning alcohol stove or a wider pot. Many varieties of either exist, but I decided to put the project on the backburner before spending more time on it. 
 
-##Enter Jetboil MiniMo
+## Enter Jetboil MiniMo
 
 REI used gear sales are wonderfully serendipitous, and on last weekend's event I picked up a Jetboil MiniMo pot (and only the pot) for $15. Here's why that's exciting:
 
-###Advantages of pairing a Jetboil MiniMo with a Fancy Feast
+### Advantages of pairing a Jetboil MiniMo with a Fancy Feast
 
 * MiniMo is much wider and accomodates the Fancy Feast's side-burning flame configuration
 * MiniMo flux ring is wider than the Flash's, which can accomodate the Fancy Feast perfectly

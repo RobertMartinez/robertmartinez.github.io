@@ -10,16 +10,16 @@ tags:
 allow_comments: TRUE
 ---
 
-##Introduction
+## Introduction
 I've always struggled with running. Growing up, I hated any sport that made my body feel like a bouncing bucket of loose nails: every step a harsh, jolting impact on all my joints. Even while in peak physical condition rowing for Yale I would always grit my teeth whenever we ran. It simply felt incongruous to my nature. 
 
 However, a few years ago I devoured [Born to Run](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189), and like any other 6'4" oaf I felt inpsired. What followed though were several years of on-again off-again attempts to transform this tragedy of limbs into a symphony of motion <a id="00" href="#01">[0]</a>. Finally, after injuring my knee on a run through Golden Gate park, I resolved once again that this very basic movement was simply not for me. 
 
-##New strategy
+## New strategy
 
 In early 2015 I listened to the [Freakenomics podcast episode on temptation bundling](http://freakonomics.com/2015/03/13/when-willpower-isnt-enough-a-new-freakonomics-radio-podcast). In the episode they claim that taking something you enjoy doing (e.g. watching Netflix) and combining it exclusively with an undesirable activity (e.g. going to the gym) is a viable strategy for turning the undesirable activity into a habit. They present a compelling study, so I figured why not give it a shot?
 
-##Bootie SF Mashups + Zombies, Run! = Success!
+## Bootie SF Mashups + Zombies, Run! = Success!
 
 Typical tempation bundling is a 1:1 of enjoyable:unenjoyable, so I started by listening to the best of [Bootie SF Mashups](http://bootiemashup.com/blog/). Every month they'd post the best mashups of the month, which I would promptly download and append my favorites to my running playlist. Now that I had an awesome mix, I would only allow myself to listen when I was running. Bam! Temptation bundled. 
 
@@ -31,7 +31,7 @@ It's a surprisingly addicting game in which you play a survivor of the zombie ap
 
 But I wanted more. 
 
-##Bundle-ception
+## Bundle-ception
 
 Since all of my runs are out and back (and I have my phone on my anyways), I realized I could incorporate a completely different game into my runs while I play Zombies, Run!. This game is affectionately known as [Geocaching](https://www.geocaching.com/guide/). 
 
@@ -52,7 +52,7 @@ The best part is that Zombies, Run! is all setup to handle my game within a game
 
 This is a great excuse for me to introduce endless variety in my runs while maintaining a solid routine <a id="10" href="#11">[1]</a>. 
 
-##Conclusion
+## Conclusion
 
 I definitely have not fallen in love with running like Caballo Blanco or the other notable characters of Born to Run. However, I don't hate it anymore and I'm throughly addicted to a process that improves my life. That's a considerable victory. Tempation bundling worked for me in this case, and I can't wait to apply it to other aspects of my life.  
 

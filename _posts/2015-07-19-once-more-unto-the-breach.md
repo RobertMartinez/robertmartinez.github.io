@@ -31,7 +31,7 @@ P.S. For anyone keeping track, here are the remaining TODOs
 *  <del>Do [something smart with tags/categories](https://blog.brandonparsons.me/2015-using-tags-in-a-jekyll-blog-on-github-pages/)</del>
 *  Complete my existential crisis regarding my ever-growing digital footprint
 
-####7-20-2015 Update
+#### 7-20-2015 Update
  After I got everything up and running I discovered [Joshua Lande's post](http://joshualande.com/jekyll-github-pages-poole), which covers additional steps like adding comments, setting up a custom domain, and adding Google Analytics. The bit of advice I completely ignored was everything about Poole considering [Pixyll](http://Pixyll.com) covered that territory already. 
 
 {% include twitter_plug.html %}
