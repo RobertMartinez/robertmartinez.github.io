@@ -18,7 +18,7 @@ This is a cathartic story about a tremendous amount of effort put into bad engin
 
 Get ready for a train wreck. 
 
-##The Problem
+## The Problem
 
 1. The cabin's bed is too small. I wanted at least a full size bed that could comfortable accomodate my and my girlfriend (primary).
 
