@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Using a Matterport Scanner for Cabin Renovation
+title:      Cabin 5 Renovation (Part 1)
 date:       2016-01-17
 summary:    A completely over-engineered ship renovation
 tags: 
