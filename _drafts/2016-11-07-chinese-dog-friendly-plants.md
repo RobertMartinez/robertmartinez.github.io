@@ -13,7 +13,7 @@ tags:
 allow_comments: TRUE
 ---
 
-Shenzhen is wonderful, but it also has [significant air quality issues](http://aqicn.org/city/shenzhen). Coincidentally, our new apartment is in sore need of decorating. Enter one of my favorite solutions: air-filtering house plants! 
+Shenzhen is wonderful, but it has [significant air quality issues](http://aqicn.org/city/shenzhen). Coincidentally, our new apartment is in sore need of decorating. Enter one of my favorite solutions: air-filtering house plants! 
 
 In 1989, NASA published a study of plants that are the best at passively filtering air. They identified a bunch of chemicals that are harmful to humans and identified the plants that are best at pulling them out of the air. It also helps that these plants are very difficult to kill. Now, I'm not on a space station, but I care about the air I breathe. Here are the findings:
 
