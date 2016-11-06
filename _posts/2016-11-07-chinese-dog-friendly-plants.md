@@ -24,10 +24,11 @@ In 1989, NASA published a study that identified chemicals harmful to humans in a
 * Filter for just the plants that can be sourced in SE Asia - 5 plants remaining
 * Verify that the remaining plants cover the spectrum of chemicals NASA identified as harmfaul - True!
 
-## NASA Clean Air Study 
+## Resources 
 * [Wikipedia link](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study)
 * [Original NASA study (.pdf)](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930073077.pdf)
-* [Handy Summarizing Infographic](https://www.lovethegarden.com/community/fun-facts/nasa-guide-air-filtering-houseplants)
+* [Wolverton Study (.pdf)](http://wolvertonenvironmental.com/MsAcad-93.pdf)
+* [Chemical Hazards Compendium (UK Gov't Public Resource)](https://www.gov.uk/government/collections/chemical-hazards-compendium)
 
 ##  Chemicals that are filtered:
 * CO2
@@ -37,6 +38,7 @@ In 1989, NASA published a study that identified chemicals harmful to humans in a
 * Xylene
 * Toluene
 * Ammonia
+* [Handy Summarizing Infographic](https://www.lovethegarden.com/community/fun-facts/nasa-guide-air-filtering-houseplants)
 
 ##  What's not filtered
 These plants will _not_ filter out small particulate matter. The particulate matter that is of frequent concern is PM2.5, and these plants won't deal with that at all. I'll explore this later. 
@@ -57,39 +59,34 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * [Chinese Wikipedia](https://zh.wikipedia.org/wiki/%E5%B1%B1%E9%BA%A5%E5%86%AC)
 * Chinese name: Liriope
 * Mandarin: 山麥冬
-* [Picture](https://upload.wikimedia.org/wikipedia/commons/b/bd/LyriopeSpicata_wb.jpg)
 
-![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/b/bd/LyriopeSpicata_wb.jpg)
+[![Nasa Plant - Liriope spicata](https://upload.wikimedia.org/wikipedia/commons/b/bd/LyriopeSpicata_wb.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bd/LyriopeSpicata_wb.jpg)
 
 ### Rhapis excelsa (Broadleaf Lady Palm)
 * [English Wikipedia](https://en.wikipedia.org/wiki/Rhapis_excelsa)
 * [Chinese Wikipedia](https://zh.wikipedia.org/wiki/%E6%A3%95%E7%AB%B9)
 * Chinese name: Zongzhu
 * Mandarin: 棕竹
-* [Picture](https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg)
 
-![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg)
+[![Nasa Plant - Rhapis excelsa](https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg)
 
 ### Phalaenopsis (moth orchids)
 * [English Wikipedia](https://en.wikipedia.org/wiki/Phalaenopsis)
 * Chinese name: Moth Orchid
 * Mandarin: 蝴蝶蘭屬
-* [Picture](https://upload.wikimedia.org/wikipedia/commons/0/04/Hudielan.jpg)
 
-![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/0/04/Hudielan.jpg)
+[![Nasa Plant - Phalaenopsis](https://upload.wikimedia.org/wikipedia/commons/0/04/Hudielan.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/04/Hudielan.jpg)
 
 ### Dendrobium (Noble Dendrobium orchids)
 * [English Wikipedia](https://en.wikipedia.org/wiki/Dendrobium_nobile)
 * Chinese name: Noble Dendrobium 
 * Pinyin: shí hú lán
 * Mandarin: 石斛兰 or 石斛蘭
-* [Picture](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dendrobium_nobile_-_Larssen.jpg)
 
-![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dendrobium_nobile_-_Larssen.jpg)
+[![Nasa Plant - Noble Dendrobium](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dendrobium_nobile_-_Larssen.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dendrobium_nobile_-_Larssen.jpg)
 
 ### Gerbera jamesonii (Barberton daisy)
 * Mandarin: 非洲菊雏菊???
 * [English Wikipedia](https://en.wikipedia.org/wiki/Gerbera_jamesonii)
-* [Picture](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)
 
-![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)
+[![Nasa Plant - Gerbera jamesonii](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)
