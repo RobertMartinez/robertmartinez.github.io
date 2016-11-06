@@ -79,8 +79,8 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Chinese name: Noble Dendrobium 
 * Pinyin: shí hú lán
 * Mandarin: 石斛兰 
-* [Picture](https://zh.wikipedia.org/wiki/%E7%9F%B3%E6%96%9B%E8%98%AD%E5%B1%AC#/media/File:Dendrobium_Starclass_nobil%C3%A9_()aka).jpg
-<image src="ttps://zh.wikipedia.org/wiki/%E7%9F%B3%E6%96%9B%E8%98%AD%E5%B1%AC#/media/File:Dendrobium_Starclass_nobil%C3%A9_()aka).jpg")
+* [Picture]https://en.wikipedia.org/wiki/Dendrobium_nobile#/media/File:Dendrobium_nobile_-_Larssen.jpg)
+<image src="https://en.wikipedia.org/wiki/Dendrobium_nobile#/media/File:Dendrobium_nobile_-_Larssen.jpg")
 
 ## Gerbera jamesonii (Barberton daisy)
 * Mandarin: 非洲菊雏菊???
