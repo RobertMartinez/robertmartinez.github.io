@@ -19,9 +19,9 @@ In 1989, NASA published a study that identified chemicals harmful to humans in a
 
 ### Steps
 
-* Pull up the NASA Clean Air Study to get the full list of plants - 31 remaining total
+* Pull up the NASA Clean Air Study to get the full list of plants - 31 total
 * Filter out all the plants toxic to dogs (or other pets) - 12 plants remaining
-* Filter for just the plants that can be sourced in SE Asia - 5 plants remaining
+* Filter for just the plants that can be sourced in SE Asia - 5 plants remaining <a id="00" href="#01">[0]</a>
 * Verify that the remaining plants cover the spectrum of chemicals NASA identified as harmfaul - True!
 
 ## Resources 
@@ -90,3 +90,6 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * [English Wikipedia](https://en.wikipedia.org/wiki/Gerbera_jamesonii)
 
 [![Nasa Plant - Gerbera jamesonii](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)
+
+
+<a id="01" href="#00">[0]</a> There's actually one more plant I didn't include on the final list, which is the [Pygmy Date Palm](https://en.wikipedia.org/wiki/Phoenix_roebelenii). As much as I would love to have one of these in my apartment (it's dog safe!), it's large enough to basically be a 3rd roommate. 
