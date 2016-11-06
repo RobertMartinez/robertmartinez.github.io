@@ -23,9 +23,9 @@ Steps
 * Filter for just the plants that can be sourced in SE Asia - 5 plants remaining
 
 ## NASA Clean Air Study 
-[Wikipedia link](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study)
-[Original NASA study (.pdf)](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930073077.pdf)
-[Handy Summarizing Infographic](https://www.lovethegarden.com/community/fun-facts/nasa-guide-air-filtering-houseplants)
+* [Wikipedia link](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study)
+* [Original NASA study (.pdf)](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930073077.pdf)
+* [Handy Summarizing Infographic](https://www.lovethegarden.com/community/fun-facts/nasa-guide-air-filtering-houseplants)
 
 ##  Chemicals that are filtered:
 * CO2
@@ -53,24 +53,23 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * [Chinese Wikipedia](https://zh.wikipedia.org/wiki/%E5%B1%B1%E9%BA%A5%E5%86%AC)
 * Chinese name: Liriope
 * Mandarin: 山麥冬
-* [Picture](https://en.wikipedia.org/wiki/Liriope_spicata#/media/File:LyriopeSpicata_wb.jpg)
-![Nasa Plant](https://en.wikipedia.org/wiki/Liriope_spicata#/media/File:LyriopeSpicata_wb.jpg)
+* [Picture](https://upload.wikimedia.org/wikipedia/commons/b/bd/LyriopeSpicata_wb.jpg)
+![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/b/bd/LyriopeSpicata_wb.jpg)
 
 ## Rhapis excelsa (Broadleaf Lady Palm)
 * [English Wikipedia](https://en.wikipedia.org/wiki/Rhapis_excelsa)
 * [Chinese Wikipedia](https://zh.wikipedia.org/wiki/%E6%A3%95%E7%AB%B9)
 * Chinese name: Zongzhu
 * Mandarin: 棕竹
-* [Picture](https://en.wikipedia.org/wiki/Rhapis_excelsa#/media/File:Rhapis_excelsa.jpg)
-![Nasa Plant](https://en.wikipedia.org/wiki/Rhapis_excelsa#/media/File:Rhapis_excelsa.jpg)
+* [Picture](https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg)
+![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg)
 
 ## Phalaenopsis (moth orchids)
 * [English Wikipedia](https://en.wikipedia.org/wiki/Phalaenopsis)
 * Chinese name: Moth Orchid
 * Mandarin: 蝴蝶蘭屬
-* [Picture](https://en.wikipedia.org/wiki/Phalaenopsis#/media/File:Orchid_Phalaenopsis_hybrid.jpg)
-* [Picture](https://zh.wikipedia.org/wiki/%E8%9D%B4%E8%9D%B6%E8%98%AD%E5%B1%AC#/media/File:Hudielan.jpg)
-![Nasa Plant](https://zh.wikipedia.org/wiki/%E8%9D%B4%E8%9D%B6%E8%98%AD%E5%B1%AC#/media/File:Hudielan.jpg)
+* [Picture](https://upload.wikimedia.org/wikipedia/commons/0/04/Hudielan.jpg)
+![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/0/04/Hudielan.jpg)
 
 ## Dendrobium (Noble Dendrobium orchids)
 * [English Wikipedia](https://en.wikipedia.org/wiki/Dendrobium_nobile)
@@ -79,11 +78,11 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Chinese name: Noble Dendrobium 
 * Pinyin: shí hú lán
 * Mandarin: 石斛兰 
-* [Picture](https://en.wikipedia.org/wiki/Dendrobium_nobile#/media/File:Dendrobium_nobile_-_Larssen.jpg)
-![Nasa Plant](https://en.wikipedia.org/wiki/Dendrobium_nobile#/media/File:Dendrobium_nobile_-_Larssen.jpg)
+* [Picture](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dendrobium_nobile_-_Larssen.jpg)
+![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dendrobium_nobile_-_Larssen.jpg)
 
 ## Gerbera jamesonii (Barberton daisy)
 * Mandarin: 非洲菊雏菊???
 * [English Wikipedia](https://en.wikipedia.org/wiki/Gerbera_jamesonii)
-* [Picture](https://en.wikipedia.org/wiki/Gerbera_jamesonii#/media/File:BarbertonDaisy.jpg)
-![Nasa Plant](https://en.wikipedia.org/wiki/Gerbera_jamesonii#/media/File:BarbertonDaisy.jpg)
+* [Picture](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)
+![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)
