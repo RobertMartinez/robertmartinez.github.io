@@ -54,7 +54,7 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Chinese name: Liriope
 * Mandarin: 山麥冬
 * [Picture](https://en.wikipedia.org/wiki/Liriope_spicata#/media/File:LyriopeSpicata_wb.jpg)
-<image src="https://en.wikipedia.org/wiki/Liriope_spicata#/media/File:LyriopeSpicata_wb.jpg">
+<img src="https://en.wikipedia.org/wiki/Liriope_spicata#/media/File:LyriopeSpicata_wb.jpg">
 
 ## Rhapis excelsa (Broadleaf Lady Palm)
 * [English Wikipedia](https://en.wikipedia.org/wiki/Rhapis_excelsa)
@@ -62,7 +62,7 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Chinese name: Zongzhu
 * Mandarin: 棕竹
 * [Picture](https://en.wikipedia.org/wiki/Rhapis_excelsa#/media/File:Rhapis_excelsa.jpg)
-<image src="https://en.wikipedia.org/wiki/Rhapis_excelsa#/media/File:Rhapis_excelsa.jpg")
+<img src="https://en.wikipedia.org/wiki/Rhapis_excelsa#/media/File:Rhapis_excelsa.jpg")
 
 ## Phalaenopsis (moth orchids)
 * [English Wikipedia](https://en.wikipedia.org/wiki/Phalaenopsis)
@@ -70,7 +70,7 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Mandarin: 蝴蝶蘭屬
 * [Picture](https://en.wikipedia.org/wiki/Phalaenopsis#/media/File:Orchid_Phalaenopsis_hybrid.jpg)
 * [Picture](https://zh.wikipedia.org/wiki/%E8%9D%B4%E8%9D%B6%E8%98%AD%E5%B1%AC#/media/File:Hudielan.jpg)
-<image src="https://zh.wikipedia.org/wiki/%E8%9D%B4%E8%9D%B6%E8%98%AD%E5%B1%AC#/media/File:Hudielan.jpg")
+<img src="https://zh.wikipedia.org/wiki/%E8%9D%B4%E8%9D%B6%E8%98%AD%E5%B1%AC#/media/File:Hudielan.jpg")
 
 ## Dendrobium (Noble Dendrobium orchids)
 * [English Wikipedia](https://en.wikipedia.org/wiki/Dendrobium_nobile)
@@ -79,11 +79,11 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Chinese name: Noble Dendrobium 
 * Pinyin: shí hú lán
 * Mandarin: 石斛兰 
-* [Picture]https://en.wikipedia.org/wiki/Dendrobium_nobile#/media/File:Dendrobium_nobile_-_Larssen.jpg)
-<image src="https://en.wikipedia.org/wiki/Dendrobium_nobile#/media/File:Dendrobium_nobile_-_Larssen.jpg")
+* [Picture](https://en.wikipedia.org/wiki/Dendrobium_nobile#/media/File:Dendrobium_nobile_-_Larssen.jpg)
+<img src="https://en.wikipedia.org/wiki/Dendrobium_nobile#/media/File:Dendrobium_nobile_-_Larssen.jpg")
 
 ## Gerbera jamesonii (Barberton daisy)
 * Mandarin: 非洲菊雏菊???
 * [English Wikipedia](https://en.wikipedia.org/wiki/Gerbera_jamesonii)
 * [Picture](https://en.wikipedia.org/wiki/Gerbera_jamesonii#/media/File:BarbertonDaisy.jpg)
-<image src="https://en.wikipedia.org/wiki/Gerbera_jamesonii#/media/File:BarbertonDaisy.jpg")
+<img src="https://en.wikipedia.org/wiki/Gerbera_jamesonii#/media/File:BarbertonDaisy.jpg")
