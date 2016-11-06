@@ -4,10 +4,11 @@ title: Recommendations
 permalink: /recommendations/
 ---
 
-I post recommendations here when I get asked more than once what I use for X. 
+I post recommendations here when I get asked more than once what I use for "X". None of these are paid links. 
 
 Changelog:
 
+* 11/7/2016: Added a graveyard section for tools I no longer recommend, added CAD Review tool (Fusion 360), Podcast (Reply All)
 * 1/11/2016: Added Radiolab and Freakenomics podcat episodes. Added Mobile Apps section. 
 
 <h3>Blogging</h3>
@@ -18,14 +19,14 @@ _see [how I wired up my blog](/blog/once-more-unto-the-breach/) for more insight
 * Writing framework: [Markdown](http://daringfireball.net/projects/markdown/syntax) (more of a reference than anything)
 * Newsletter service: [TinyLetter](http://tinyletter.com/)
 
-
 <h3>Desktop Software Tools</h3>
-_note: all recommendations are based on Apple's OS X Yosemite_
+_note: all recommendations are based on Apple's macOS Sierra _
 
 * Text editor: [Sublime Text](http://www.sublimetext.com/3)
 * Password manager: [KeePassX](https://www.keepassx.org/)
-* Screenshot markup: [Skitch](https://evernote.com/skitch/) (may require Evernote)
+* Screenshot markup: [Monosnap](https://monosnap.com/welcome)
 * Github management: [Github for Mac](https://mac.github.com/)
+* CAD review tool: [Fusion 360](http://www.autodesk.com/products/fusion-360/students-teachers-educators)
 
 <h3>Mobile Apps</h3>
 _note: all recommendations are based on Apple's iOS_
@@ -91,3 +92,9 @@ _note: all recommendations are based on Apple's iOS_
 * [How Do We Know What Really Works In Healthcare](http://freakonomics.com/2015/04/02/how-do-we-know-what-really-works-in-healthcare-a-new-freakonomics-radio-podcast/) - first of a 2 part series. 
 * [Is Americas Education Problem Really Just A Teacher Problem](http://freakonomics.com/2014/11/27/is-americas-education-problem-really-just-a-teacher-problem-a-new-freakonomics-radio-podcast/)
 * [When Willpower Isn't Enough](http://freakonomics.com/2015/03/13/when-willpower-isnt-enough-a-new-freakonomics-radio-podcast) (I wrote about my experience with temptation bundling [here](http://robm.xyz/blog/temptation-bundling-running)).
+
+<h4>reply all</h4>
+* [Very Quickly To The Drill](https://gimletmedia.com/episode/78-very-quickly-to-the-drill/)
+
+<h3>Elephant Graveyard (aka. I no longer recommend these, but I used to<h3>
+* Screenshot markup: [Skitch](https://evernote.com/skitch/) (better, freer, non-Evernote-required alternatives)
