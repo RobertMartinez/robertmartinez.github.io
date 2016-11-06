@@ -54,6 +54,7 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Chinese name: Liriope
 * Mandarin: 山麥冬
 * [Picture](https://upload.wikimedia.org/wikipedia/commons/b/bd/LyriopeSpicata_wb.jpg)
+
 ![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/b/bd/LyriopeSpicata_wb.jpg)
 
 ## Rhapis excelsa (Broadleaf Lady Palm)
@@ -62,6 +63,7 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Chinese name: Zongzhu
 * Mandarin: 棕竹
 * [Picture](https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg)
+
 ![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg)
 
 ## Phalaenopsis (moth orchids)
@@ -69,6 +71,7 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Chinese name: Moth Orchid
 * Mandarin: 蝴蝶蘭屬
 * [Picture](https://upload.wikimedia.org/wikipedia/commons/0/04/Hudielan.jpg)
+
 ![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/0/04/Hudielan.jpg)
 
 ## Dendrobium (Noble Dendrobium orchids)
@@ -79,10 +82,12 @@ These plants will _not_ filter out small particulate matter. The particulate mat
 * Pinyin: shí hú lán
 * Mandarin: 石斛兰 
 * [Picture](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dendrobium_nobile_-_Larssen.jpg)
+
 ![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dendrobium_nobile_-_Larssen.jpg)
 
 ## Gerbera jamesonii (Barberton daisy)
 * Mandarin: 非洲菊雏菊???
 * [English Wikipedia](https://en.wikipedia.org/wiki/Gerbera_jamesonii)
 * [Picture](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)
+
 ![Nasa Plant](https://upload.wikimedia.org/wikipedia/commons/4/48/BarbertonDaisy.jpg)
