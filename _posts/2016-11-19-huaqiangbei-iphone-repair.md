@@ -2,7 +2,7 @@
 layout:     post
 title:      The Soul of Huaqiangbei
 date:       2016-11-19
-summary:    
+summary:    A thankfully brief adventure in phone repair
 tags: 
   -   China 
   -   Hardware
