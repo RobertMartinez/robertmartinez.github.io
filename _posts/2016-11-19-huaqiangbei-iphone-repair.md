@@ -11,7 +11,9 @@ tags:
 allow_comments: TRUE
 ---
 
-Does cigarette smoke affect logic boards? I wondered this as a kid who barely seemed out of puberty ripped apart my iPhone with startling efficiency. The plumes of smoke weren't coming from him though, but rather from the technician in the adjacent shop stall deftly re-flowing solder on a malfunctioning logic board. Considering how much smoke (both cigarette and solder) was coming from his and the other ten stations in his shop, I figured it probably didn't matter. My attention snapped back to my phone as I caught him peeling off a gasket from somewhere deep in my phone and slapping it on the wall in one fluid motion. That's when I realized the wall was plastered with discarded gaskets and warranty stickers from what must be thousands of phones. I knew then I was in good hands.   
+Does cigarette smoke affect logic boards? I wondered this as a kid who barely seemed out of puberty ripped apart my iPhone with startling efficiency. The plumes of smoke weren't coming from him though, but rather from the technician in the adjacent shop stall deftly re-flowing solder on a malfunctioning logic board. Considering how much smoke (both cigarette and solder) was coming from his and the other ten stations in his cramped shop, I figured it probably didn't matter. My attention snapped back to my phone as I caught him peeling off a gasket from somewhere deep in my phone and slapping it on the wall in one fluid motion. That's when I realized the wall was plastered with discarded gaskets and warranty stickers from what must be thousands of phones. I knew then I was in good hands.   
+
+{% include image.html url="/images/iphone-repair-0.png" description="Yuanwang Digital Mall - a massive labyrinth of cellphone repair shops" %}
 
 Earlier that morning my iPhone died. The charging port malfunctioned overnight and by the time I awoke the battery was entirely depleted. I suspected this would happen someday [0], but to my great fortune it happened in quite possibly the best place in the world for phone repairs: Shenzhen. More specifically, Huaqiangbei electronics market.
 
@@ -24,3 +26,5 @@ The offending part:
 {% include image.html url="/images/iphone-repair.JPG" description="iPhone 5s lightning connector and headphone jack" %}
 
 This repair is [not for the faint of heart](https://www.ifixit.com/Guide/iPhone+5s+Lightning+Connector+Replacement/20261), and at [~$55 USD parts/labor](http://www.geniusphonerepair.com/4_95_apple-iphone-5-charging-port-repair.html) nor is it all that cheap. What did it cost me in this stall next to a smoke stack of a person? 50 RMB ($7.26 USD at the time of this writing). Incredible. 
+
+<a id="01" href="#00">[0]</a> I've already replaced on separate occasions my home button and LCD module. For anyone in SF with an out of warranty iPhone, I highly recommend [iPhone Repair SF](http://www.iphonerepairsf.com/). 
