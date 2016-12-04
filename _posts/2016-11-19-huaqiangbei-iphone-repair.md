@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The Soul of Huaqiangbei
+title:      The Soul of Huaqiangbei - Cellphone repair
 date:       2016-11-19
 summary:    A thankfully brief adventure in phone repair
 tags: 
