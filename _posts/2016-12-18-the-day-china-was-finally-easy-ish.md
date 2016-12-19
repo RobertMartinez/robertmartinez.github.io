@@ -19,6 +19,18 @@ allow_comments: TRUE
 
 I was absolutely giddy on the train ride to Guangzhou for two reasons. The first: I was finally going to try out a custom-built road bike I put a deposit on two months ago <a id="00" href="#01">[0]</a>. The second reason: the train's speed. We were barrelling along at 305 km/hour (190 miles/hour). I had to peel my eyes away from the LED screen at the front of this immaculate train car to look out the window and appreciate the passing greenery.
 
+## What makes China hard (an unordered list)
+
+* Not knowing the language well enough to 1) ask for directions 2) convey what you need
+* Not having a mainland bank account. This prevents you from using
+  *  WeChat and Alipay (how people pay for everything out here.)
+  *  Pretty much every store/shop that isn't a Starbucks other international chain
+  *  Didi (which requires one of the above payment methods)
+  *  Taobao or JD (if you want to take advantage of next day delivery, which is the norm)
+* Not having a reliable VPN (if you use Google or Facebook products like gmail)
+* Not having a power bank (your phone will _not_ last the day out there)
+
+
 ## Shenzhen to Guangzhou
 
 {% include image.html url="/images/guangzhoutrain2.jpg" description="189.5 miles/hour. The ride is exceptionally smooth because if it wasn't we'd all be dead." %}
@@ -56,7 +68,7 @@ After the miraculous day trip that was Guangzhou, I had a surprise encore the fo
 {% include image.html url="/images/dafen2-grizzly.jpg" description="The finished work, and the artists who worked on it. The paint was still drying on the edges as I picked it up." %}
 <br>
 
-What made this day stand out for me (and why I'm including it in this post) is how easy everything finally felt. Not only was I able to commission the cutest canine-aquatic themed oil painting this side of the Great Wall, I paid the down payment via WeChat transfer (like Apple wallet). The shop texted me when the painting was done, and I was able to get to/from the Village via Didi. For the unfamiliar, Didi is Uber, except [Didi bought out Uber] earlier this year(https://techcrunch.com/2016/08/01/didi-chuxing-confirms-it-is-buying-ubers-business-in-china/)<a id="20" href="#21">[2]</a>. This was a necessary and hard fought China achievement and I was damn proud riding back from Dafen with little Grizzle's portrait in tow. 
+What made this day stand out for me (and why I'm including it in this post) is how easy everything finally felt. Not only was I able to commission the cutest canine-aquatic themed oil painting this side of the Great Wall, I paid the down payment via WeChat transfer (like Apple wallet). The shop texted me when the painting was done, and I was able to get to/from the Village via Didi. For the unfamiliar, Didi is Uber, except [Didi bought out Uber](https://techcrunch.com/2016/08/01/didi-chuxing-confirms-it-is-buying-ubers-business-in-china/) earlier this year <a id="20" href="#21">[2]</a>. This was a necessary and hard fought China achievement and I was damn proud riding back from Dafen with little Grizzle's portrait in tow. 
 
 {% include image.html url="/images/dafen3.jpg" description="A large format canvas piece I spotted on the way out." %}
 <br>
