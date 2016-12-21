@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Day China Was Finally Easy-ish
-date:       2016-11-19
+date:       2016-12-19
 summary:    When the learning curve leveled off
 tags: 
   -   China 
