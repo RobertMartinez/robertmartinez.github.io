@@ -20,7 +20,7 @@ _see [how I wired up my blog](/blog/once-more-unto-the-breach/) for more insight
 * Newsletter service: [TinyLetter](http://tinyletter.com/)
 
 <h3>Desktop Software Tools</h3>
-_note: all recommendations are based on Apple's macOS Sierra _
+_note: all recommendations are based on Apple's macOS Sierra_
 
 * Text editor: [Sublime Text](http://www.sublimetext.com/3)
 * Password manager: [KeePassX](https://www.keepassx.org/)
@@ -96,5 +96,5 @@ _note: all recommendations are based on Apple's iOS_
 <h4>reply all</h4>
 * [Very Quickly To The Drill](https://gimletmedia.com/episode/78-very-quickly-to-the-drill/)
 
-<h3>Elephant Graveyard (aka. I no longer recommend these, but I used to<h3>
-* Screenshot markup: [Skitch](https://evernote.com/skitch/) (better, freer, non-Evernote-required alternatives)
+<h3>Elephant Graveyard (aka. I no longer recommend these, but I used to</h3>
+* Screenshot markup: [Skitch](https://evernote.com/skitch/) (there are better, freer, non-Evernote-required alternatives)
